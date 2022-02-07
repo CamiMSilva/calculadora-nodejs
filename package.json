@@ -1,0 +1,15 @@
+{
+  "name": "calculadora-nodejs",
+  "version": "1.0.0",
+  "description": "ativ-BCW9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Camila",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
